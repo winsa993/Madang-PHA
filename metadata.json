@@ -1,0 +1,7 @@
+{
+  "name": "Madang Provincial Health Authority",
+  "description": "Official digital platform for the Madang Provincial Health Authority (MPHA), providing public health information, alerts, and facility locations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
